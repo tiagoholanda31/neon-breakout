@@ -4,8 +4,10 @@ Recriação do Breakout (Atari, 1976) em estilo synthwave, com uma regra nova: o
 
 ## Jogar
 
+
 - Abra `index.html` no navegador, ou publique a pasta em qualquer host estático (GitHub Pages, itch.io, Netlify).
 - O jogo detecta o dispositivo e escolhe o layout: teclado e mouse no desktop, toque no celular. Para forçar: `index.html?desktop` ou `index.html?mobile`.
+- Ou jogue aqui no itch https://tiagoholanda31.itch.io/neon-breakout
 
 | Ação | Desktop | Mobile |
 |---|---|---|
