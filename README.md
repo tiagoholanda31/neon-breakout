@@ -2,8 +2,6 @@
 
 Recriação do Breakout (Atari, 1976) em estilo synthwave, com uma regra nova: o muro de blocos desce sem parar e a bola precisa acompanhar o ritmo. Um único arquivo HTML, sem dependências, roda em desktop e celular direto no navegador.
 
-![Neon Breakout](docs/img/desktop.png)
-
 ## Jogar
 
 - Abra `index.html` no navegador, ou publique a pasta em qualquer host estático (GitHub Pages, itch.io, Netlify).
